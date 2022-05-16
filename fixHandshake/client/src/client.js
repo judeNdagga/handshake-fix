@@ -1,5 +1,3 @@
-
-
 const writeEvent = (text) => {
     //<ul> element
     const parent = document.querySelector('#events');
